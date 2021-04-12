@@ -4,9 +4,14 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      # **Добро пожаловать в Музей факультета журналистики УрФУ!&#xA;**
+
+
+      # **Мы собираем для вас коллекцию раритетных вещей, которые ведут свою
+      историю еще с середины 20 века. Множество экспонатов, разделенных по
+      рубрикам и выстроенных в единую хронологию, ждут вашего
+      внимания.**&#xA;&#xA;&#xA;
     actions:
       - label: Let's talk
         url: /contact
